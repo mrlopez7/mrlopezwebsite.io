@@ -1,0 +1,10 @@
+body {
+	background-color: lightskyblue;
+	font-family: Garamond;
+	text-align: center;
+} 
+
+img:hover {
+	height: 675px;
+	width: 900px;
+}
